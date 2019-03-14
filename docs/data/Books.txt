@@ -1,0 +1,10 @@
+The Mysterious Affair at Styles|Agatha Christie|English|123|Britain
+The Secret Adversary|Agatha Christie|English|354|Britain
+The Murder on the Links|Agatha Christie|English|333|Britain
+The Murder of Roger|Agatha Christie|English|423|Britain
+The Mystery of the Blue Train|Agatha Christie|English|512|Britain
+The Murder at the Vicarage|Agatha Christie|English|243|Britain
+Murder on the Orient Express|Agatha Christie|English|463|Britain
+Three Act Tragedy|Agatha Christie|English|542|Britain
+Death in the Clouds|Agatha Christie|English|234|Britain
+The A.B.C. Murders|Agatha Christie|English|524|Britain

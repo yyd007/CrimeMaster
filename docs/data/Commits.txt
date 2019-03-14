@@ -1,0 +1,10 @@
+The Mysterious Affair at Styles|1|Homicide|2|Criminal
+The Secret Adversary|2|Arson/Bombing|3|Maid
+The Murder on the Links|3|Rape and Sexual Assault|4|Police
+The Murder of Roger|4|Nonlethal Crimes|8|Doctor
+The Mystery of the Blue Train|5|Computer Crimes|2|Criminal
+The Murder at the Vicarage|6|Cyber crimes|8|Doctor
+Murder on the Orient Express|7|Internet Child Sex Offenders|7|Nurse
+Three Act Tragedy|8|Narcotics|2|Criminal
+Death in the Clouds|9|Traffic crimes|6|Kid
+The A.B.C. Murders|10|Violent crimes|5|Priest

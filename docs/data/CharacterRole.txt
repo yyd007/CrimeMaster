@@ -1,0 +1,10 @@
+1|Detective
+2|Criminal
+3|Maid
+4|Police
+5|Priest
+6|Kid
+7|Nurse
+8|Doctor
+9|Actress
+10|Singer

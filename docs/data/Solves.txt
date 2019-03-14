@@ -1,0 +1,10 @@
+Hercule Poroit|1|Homicide
+Hercule Poroit|2|Violent crimes
+Miss.Maple|3|Homicide
+Miss.Maple|4|Narcotics
+LAK|5|Internet Child Sex Offenders
+LAK|6|Cybercrimes
+Miss.Maple|7|Nonlethal Crimes
+LAK|8|Homicide
+Hercule Poroit|9|Rape and Sexual Assault
+LAK|10|Arson

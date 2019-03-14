@@ -1,0 +1,10 @@
+The Mysterious Affair at Styles|2|Criminal
+The Secret Adversary|1|Detective
+The Murder on the Links|2|Criminal
+The Murder of Roger|2|Criminal
+The Mystery of the Blue Train|3|Maid
+The Murder at the Vicarage|2|Criminal
+Murder on the Orient Express|8|Doctor
+Three Act Tragedy|9|Actress
+Death in the Clouds|10|Singer
+The A.B.C. Murders|2|Criminal

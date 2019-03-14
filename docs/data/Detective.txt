@@ -1,0 +1,10 @@
+Hercule Poroit|PI|Male|Belgium
+Miss.Maple|PI|Female|UK
+AB|SEAL|Male|Belgium
+AB File|CIA|Male|UK
+AB Nile|CIA|Male|Belgium
+AB Landon|PI|Male|Belgium
+CF|PI|Male|Belgium
+EGH|FBI|Female|Belgium
+LAK|FBI|Male|US
+LIK|PI|Male|Belgium

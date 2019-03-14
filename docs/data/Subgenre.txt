@@ -1,0 +1,9 @@
+cozy mystery genre|early 20th century
+hard-boiled private investigator genre|late 20th century
+legal thriller|21st century
+Modern PI|21st century
+police procedural|late 20th century
+medical thriller|21st century
+forensic thriller|21st century
+general suspense thriller|late 20th century
+military thriller|early 20th century

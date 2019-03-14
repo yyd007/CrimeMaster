@@ -1,0 +1,10 @@
+1|Homicide|keep a secret
+2|Arson/Bombing|Revenge
+3|Rape and Sexual Assault|Sex/Jealousy
+4|Nonlethal Crimes|Narcotics
+5|Computer Crimes|Class Conflict
+6|Cybercrimes|Property Dispute
+7|Internet Child Sex Offenders|Sex/Jealousy
+8|Narcotics|Gang activities
+9|Traffic crimes|Gang activities
+10|Violent crimes|Sex/Jealousy

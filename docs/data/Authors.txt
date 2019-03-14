@@ -1,0 +1,9 @@
+Agatha Christie|Female|UK
+Agatha Chr|Female|US
+Agatha Chrie|Female|US
+Agatha C|Female|US
+Agatha Charlie|Female|US
+Agatha Brown|Male|US
+Agatha Sympson|Female|UK
+Agatha Bylon|Female|US
+Bob Dylan|Male|US
